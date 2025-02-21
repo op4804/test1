@@ -180,7 +180,7 @@ namespace ConsoleApp5
             Console.WriteLine("    ㅅ   ");
             Console.WriteLine("감사합니다.");
             Console.WriteLine("------------------------------------");
-            Console.WriteLine("계속하시려면 Enter를 입력해 주세요.");
+            Console.WriteLine("종료하시려면 Enter를 입력해 주세요.");
             Console.ReadLine();
 
 
