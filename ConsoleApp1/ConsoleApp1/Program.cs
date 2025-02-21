@@ -11,6 +11,11 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("git connect");
+
+            int age;
+            age = 25;
+
+            Console.WriteLine(age);
         }
     }
 }
