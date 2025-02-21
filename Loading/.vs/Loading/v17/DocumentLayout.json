@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hyunkyu\\test1\\Loading\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9691D045-72AD-4EAF-BD6B-F63308484A58}|Loading\\Loading.csproj|c:\\users\\hyunkyu\\test1\\loading\\loading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9691D045-72AD-4EAF-BD6B-F63308484A58}|Loading\\Loading.csproj|solutionrelative:loading\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hyunkyu\\test1\\Loading\\Loading\\Program.cs",
+              "RelativeDocumentMoniker": "Loading\\Program.cs",
+              "ToolTip": "C:\\Users\\Hyunkyu\\test1\\Loading\\Loading\\Program.cs",
+              "RelativeToolTip": "Loading\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:36:11.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

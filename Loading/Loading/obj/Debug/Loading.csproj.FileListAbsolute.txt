@@ -1,0 +1,7 @@
+C:\Users\Hyunkyu\test1\Loading\Loading\bin\Debug\Loading.exe.config
+C:\Users\Hyunkyu\test1\Loading\Loading\bin\Debug\Loading.exe
+C:\Users\Hyunkyu\test1\Loading\Loading\bin\Debug\Loading.pdb
+C:\Users\Hyunkyu\test1\Loading\Loading\obj\Debug\Loading.csproj.AssemblyReference.cache
+C:\Users\Hyunkyu\test1\Loading\Loading\obj\Debug\Loading.csproj.CoreCompileInputs.cache
+C:\Users\Hyunkyu\test1\Loading\Loading\obj\Debug\Loading.exe
+C:\Users\Hyunkyu\test1\Loading\Loading\obj\Debug\Loading.pdb
