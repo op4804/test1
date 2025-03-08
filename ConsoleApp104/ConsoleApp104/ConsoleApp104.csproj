@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{C710EB24-AF87-4BAB-B00D-E4BD85937CE7}</ProjectGuid>
+    <ProjectGuid>{E2AAF9B9-4153-4C3E-9E9F-61DF3BD2CA6F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>ConsoleApp96</RootNamespace>
-    <AssemblyName>ConsoleApp96</AssemblyName>
+    <RootNamespace>ConsoleApp104</RootNamespace>
+    <AssemblyName>ConsoleApp104</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,11 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="GameCharacter.cs" />
-    <Compile Include="Mage.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Warrior.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
